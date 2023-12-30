@@ -35,7 +35,7 @@ class DashboardOneController extends Controller
         return view('dashone.table')->with($data);
     }
 
-    public function forms()
+    public function form()
     {
         $contributions="";
 
