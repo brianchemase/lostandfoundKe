@@ -40,8 +40,15 @@
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="{{route('dashonetable')}}">
+              <a class="nav-link" href="{{route('dashoneform')}}">
                 <span class="menu-title">Forms</span>
+                <i class="mdi mdi-format-list-bulleted menu-icon"></i>
+              </a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="{{route('dashoneformtable')}}">
+                <span class="menu-title">Form table</span>
                 <i class="mdi mdi-format-list-bulleted menu-icon"></i>
               </a>
             </li>

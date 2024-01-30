@@ -25,4 +25,5 @@ Route::group(['prefix' => 'admins'], function() {
     Route::get('/forms', [DashboardOneController::class, 'form'])->name('dashoneform');
     Route::get('/Table', [DashboardOneController::class, 'table'])->name('dashonetable');
     Route::get('/blank', [DashboardOneController::class, 'home'])->name('dashoneblank');
+    Route::get('/formtable', [DashboardOneController::class, 'formtable'])->name('dashoneformtable');
 });

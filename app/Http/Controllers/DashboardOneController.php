@@ -47,4 +47,16 @@ class DashboardOneController extends Controller
 
         return view('dashone.forms')->with($data);
     }
+    public function formtable()
+    {
+        $contributions="";
+
+        $data=[
+            'contributions' => $contributions,
+            
+
+        ];
+
+        return view('dashone.formtable')->with($data);
+    }
 }
