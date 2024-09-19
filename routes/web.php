@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DashboardOneController;
+use App\Http\Controllers\PostingController;
 
 /*
 |--------------------------------------------------------------------------
@@ -15,8 +16,17 @@ use App\Http\Controllers\DashboardOneController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('landing');
 });
+
+Route::get('/lostID', function () {
+    return view('lostidpage');
+})->name('lostidpage');
+
+
+Route::get('/lostDoc', function () {
+    return view('lostdocspage');
+})->name('lostdocpage');
 
 
 Route::group(['prefix' => 'admins'], function() {
