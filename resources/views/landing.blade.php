@@ -96,8 +96,7 @@
                 Documents
               </h1>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui harum voluptatem adipisci. Quos molestiae saepe dicta nobis pariatur, tempora iusto, ad possimus soluta hic praesentium mollitia consequatur beatae, aspernatur culpa.
-              </p>
+              Replacing a lost document is a lengthy process. It costs time and money, and stressfull to say the least. Relevant government dockets waste time and valuable resources replacing documents, storing lost vehicles and persons. Recovery, replacement, is far from a pleasant experience. We are changing all that with technology.</p>
               <a href="">
                 Contact Us
               </a>
@@ -182,8 +181,7 @@
               About us
             </h2>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomisedThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised
-            </p>
+            We collect credentials such as title deeds, ID cards, passports, degree certificates, etc. We immediately upload these into our online systems. You're then able to query our information system to check whether we are in possession of your valuable document. Sorted!</p>
             <a href="">
               Read More
             </a>
@@ -214,8 +212,9 @@
         <div class="col-md-6 ">
           <div class="detail-box">
             <h2>
-              We Provide Professional <br>
-              Home Services.
+                Lost and Found Centre.<br>
+                We save you time & money. We eliminate the sting of stress 
+              
             </h2>
             <p>
               randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All randomised words which don't look even slightly

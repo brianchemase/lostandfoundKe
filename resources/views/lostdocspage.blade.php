@@ -15,7 +15,7 @@
     <!-- Style -->
     <link rel="stylesheet" href="lostform/css/style.css">
 
-    <title>Lost and found form</title>
+    <title>Lost and found documents</title>
   </head>
   <body>
   
